@@ -1,2 +1,2 @@
 # main-odin-html
-Â more fleshed out html project
+A more fleshed out html project
